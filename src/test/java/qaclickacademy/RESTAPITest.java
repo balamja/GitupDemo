@@ -13,12 +13,9 @@ public class RESTAPITest {
 		//feere
 		//ffgf
 		//fgf
-		System.out.println("postJira4");
-		System.out.println("postJira5");
-		System.out.println("postJira6");
-		System.out.println("postJira7");
-		
-		
+		System.out.println("postJiramja123");
+		System.out.println("postJiramja1234");
+		System.out.println("postJiramjasivayee");
 		
 		
 		
