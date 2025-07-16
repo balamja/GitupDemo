@@ -19,23 +19,21 @@ public class SeleniumTest {
 	{
 		System.out.println("helo");	
 	}
-	@Tests
+	@Test
 	public void elementsU1i()
 	{
-		System.out.println("please");	
+		System.out.println("pleasdewde");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("help");	
+		System.out.println("helpaiyooo");	
 	}
 	@Test
 	public void NativeAPpAndroidS()
 	{
-		System.out.println("this orphan");
+		System.out.println("this orphan whats happening");
 		
 		System.out.println("Jesus");
 	}
 	
-	
-}

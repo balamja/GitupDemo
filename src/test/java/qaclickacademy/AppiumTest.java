@@ -35,9 +35,9 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 		
-		System.out.println("POS");
+		System.out.println("POthanksS");
 		System.out.println("Fom");	
-		System.out.println("murga");	
+		System.out.println("murgasuperr");	
 		System.out.println("MJAwACTDe");
 		
 		
