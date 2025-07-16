@@ -17,18 +17,31 @@ public class SeleniumTest {
 	@Test
 	public void elementsUi()
 	{
-		System.out.println("elementsUi");	
+		System.out.println("helo");	
 	}
 	@Test
 	public void elementsU1i()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("pleasdewde");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("helpaiyooo");	
 	}
 	
-	
+	@Test
+	public void elemendtsU1ssi()
+	{
+		System.out.println("name is loser always");	
+	}
+	@Test
+	public void NativeAPpAndroidS()
+	{
+		System.out.println("this orphan whats happening");
+		
+		System.out.println("Jesus");
+		System.out.println("Allah");
+	}
 }
+	
