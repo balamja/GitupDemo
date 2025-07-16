@@ -29,11 +29,19 @@ public class SeleniumTest {
 	{
 		System.out.println("helpaiyooo");	
 	}
+	
+	@Test
+	public void elemendtsU1ssi()
+	{
+		System.out.println("name is loser always");	
+	}
 	@Test
 	public void NativeAPpAndroidS()
 	{
 		System.out.println("this orphan whats happening");
 		
 		System.out.println("Jesus");
+		System.out.println("Allah");
 	}
+}
 	
