@@ -8,14 +8,14 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAPpAndroid");
 		
-		System.out.println("NativeAPpAndroid");
+		System.out.println("sivayee");
 	}
 	@Test
 	public void NativeAPpAndroidS()
 	{
 		System.out.println("NativeAPpAndroid");
 		
-		System.out.println("NativeAPpAndroid");
+		System.out.println("Jesus");
 	}
 	
 	@Test
@@ -24,7 +24,22 @@ public class AppiumTest {
 		System.out.println("IOSApps");	
 		
 		System.out.println("IOSApps");	
+		System.out.println("Storess");	
 		System.out.println("IOSApps");	
+		System.out.println("MJAACTDe");
+		
+		
+		
+	}
+	public void IOSApps22()
+	{
+		System.out.println("IOSApps");	
+		
+		System.out.println("POS");
+		System.out.println("Fom");	
+		System.out.println("murga");	
+		System.out.println("MJAwACTDe");
+		
 		
 		
 	}

@@ -12,21 +12,29 @@ public class SeleniumTest {
 		System.out.println("BrowserAUtomation");	
 		
 		System.out.println("Web automation");	
+		System.out.println("Mobile automation now today live");	
 	}
 	@Test
 	public void elementsUi()
 	{
-		System.out.println("elementsUi");	
+		System.out.println("helo");	
 	}
-	@Test
+	@Tests
 	public void elementsU1i()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("please");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("help");	
+	}
+	@Test
+	public void NativeAPpAndroidS()
+	{
+		System.out.println("this orphan");
+		
+		System.out.println("Jesus");
 	}
 	
 	
